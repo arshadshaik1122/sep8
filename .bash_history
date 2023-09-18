@@ -20,3 +20,25 @@ git push -u origin main
 git remote add origin https://github.com/arshadshaik1122/sep8.git
 git branch -M main
 git push -u origin main
+git add .
+git status
+touch sample1
+git status
+git add .
+ls -l
+git log
+git commit -m "new file added"
+git status
+git add .
+ls -l
+touch sample2
+git add .
+git status
+git add .
+git status
+git commit -m "new file added"
+ls -l
+vi sample1
+cat sample1
+git push -u origin main
+clear
