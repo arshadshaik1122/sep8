@@ -42,3 +42,23 @@ vi sample1
 cat sample1
 git push -u origin main
 clear
+ls -l
+git add
+git add .
+git status
+cat sample1
+cat sample2
+vi sample2
+cat sample2
+git status
+git log
+git commit -m "new sample added"
+git commit "new sample added"
+git commit "new file added"
+ls -l
+git status
+git add .
+git status
+history
+git push -u origin main
+clear
